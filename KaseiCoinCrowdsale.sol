@@ -4,6 +4,12 @@ import "./KaseiCoin.sol";
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/Crowdsale.sol";
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/emission/MintedCrowdsale.sol";
 
+/**
+   * @title KaseiCoinCrowdsale
+   * @dev Crowdsale
+   * @custom:dev-run-script /Users/greg/Module 21/KaseiCoin/KaseiCoinCrowdsale.sol
+   */
+
 contract KaseiCoinCrowdsale is Crowdsale, MintedCrowdsale { 
     
     constructor(

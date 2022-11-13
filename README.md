@@ -24,7 +24,13 @@ git clone https://github.com/jgrichardson/KaseiCoin.git
 
 ## Screenshots
 
+### Compliation of Coin Contract
 
+![Compilation of Coin Contract](images/compiled_kaseicoin_contract.png)
+
+### Compilation of Crowdsale Contract
+
+![Compilation of Crowdsale Contract](images/compiled_crowdsale_contract.png)
 
 ## License
 
